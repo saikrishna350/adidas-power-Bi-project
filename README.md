@@ -30,3 +30,5 @@ fostering strategic growth and competitiveness in the dynamic sports and athleti
 
 5]Actionable recommendations for optimizing sales and profit across various dimensions.
 
+## Dashbord
+![Screenshot 2025-04-18 163059](https://github.com/user-attachments/assets/7097cb26-29d9-4e50-8611-3d7da70540f1)
